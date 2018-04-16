@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LopezViewTool::Renderer.copyright 'Ted López', 'All rights reserved'
+```
 
 ## Development
 
